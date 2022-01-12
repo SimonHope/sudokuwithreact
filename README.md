@@ -1,6 +1,6 @@
 ![plot](./pic1.jpeg)
 
-# Getting Started with Sudoku Ract
+# Getting Started with Sudoku React
 
 
 ## Available Scripts
